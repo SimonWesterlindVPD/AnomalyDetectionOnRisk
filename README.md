@@ -1,14 +1,14 @@
 # AnomalyDetectionOnRisk
-A comparison between 5 models for performing anomaly detection on financial risk measures and returns. These experiments were conducted as part of the degree project Anomaly Detection for Portfolio Risk Management, which can be found in Simon_Westerlind_Masters_Thesis.pdf or on [Diva](www.google.com).
+A comparison between 5 models for performing anomaly detection on financial risk measures and returns. These experiments were conducted as part of the degree project Anomaly Detection for Portfolio Risk Management, which can be found in Simon_Westerlind_Masters_Thesis.pdf or on [Diva](http://www.diva-portal.org/smash/search.jsf?dswid=-7742).
 ## Prerequisites
-1. Install [Conda](https://conda.io/docs/user-guide/install/index.html)
+1. Install [Conda](https://conda.io/docs/user-guide/install/index.html).
 2. Install the conda requirements with
 ```
 conda install --yes --file requirements.txt
 ```
 3. Install the [rugarch](https://cran.r-project.org/web/packages/rugarch/index.html) package. Elsewise the ARMA-GARCH will not work.
 
-4. Install [NuPIC](http://nupic.docs.numenta.org/1.0.3/index.html)
+4. Install [NuPIC](http://nupic.docs.numenta.org/1.0.3/index.html).
 
 5. Copy the returns_and_risk folder which exists in ./htm and place it in /nupic/examples/opf/clients/
 
