@@ -1,5 +1,5 @@
 # AnomalyDetectionOnRisk
-A comparison between 5 models for performing anomaly detection on financial risk measures and returns. These experiments were conducted as part of the degree project Anomaly Detection for Portfolio Risk Management, which can be found in Simon_Westerlind_Masters_Thesis.pdf or on [Diva](www.google.com)
+A comparison between 5 models for performing anomaly detection on financial risk measures and returns. These experiments were conducted as part of the degree project Anomaly Detection for Portfolio Risk Management, which can be found in Simon_Westerlind_Masters_Thesis.pdf or on [Diva](www.google.com).
 ## Prerequisites
 1. Install [Conda](https://conda.io/docs/user-guide/install/index.html)
 2. Install the conda requirements with
