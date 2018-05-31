@@ -1,0 +1,96 @@
+|TP: 11908.0|TN: 21580376.0|FP: 60124.0|FN: 31519.0|
+Anomalies:   43427.0
+Guesses:     72032.0
+precision:   0.165315415371
+recall:      0.274207290395
+F1:          0.206272356421
+TP_ALO:      0.0
+FN_ALO:      9000.0
+TP_LS:       2845.0
+FN_LS:       10655.0
+TP_TC:       0.0
+FN_TC:       9000.0
+TP_LTO:      9063.0
+FN_LTO:      2864.0
+TP_SALO:     0.0
+FN_SALO:     0.0
+
+
+2018-05-17 17:37
+|TP: 3.0|TN: 14572.0|FP: 120.0|FN: 10.0|
+Anomalies:   13.0
+Guesses:     123.0
+precision:   0.0243902439024
+recall:      0.230769230769
+F1:          0.0441176470588
+Reaction:    3.0
+TP_ALO:      1.0
+FN_ALO:      3.0
+TP_LS:       0.0
+FN_LS:       1.0
+TP_TC:       0.0
+FN_TC:       3.0
+TP_LTO:      2.0
+FN_LTO:      3.0
+TP_SALO:     0.0
+FN_SALO:     0.0
+
+
+2018-05-18 00:57
+|TP: 48.0|TN: 487575.0|FP: 1359.0|FN: 430.0|
+Anomalies:   478.0
+Guesses:     1407.0
+precision:   0.0341151385928
+recall:      0.100418410042
+F1:          0.0509283819629
+Reaction:    5.125
+TP_ALO:      14.0
+FN_ALO:      99.0
+TP_LS:       10.0
+FN_LS:       108.0
+TP_TC:       9.0
+FN_TC:       118.0
+TP_LTO:      15.0
+FN_LTO:      105.0
+TP_SALO:     0.0
+FN_SALO:     0.0
+
+
+2018-05-18 20:56
+|TP: 48.0|TN: 487575.0|FP: 1359.0|FN: 430.0|
+Anomalies:   478.0
+Guesses:     1407.0
+precision:   0.0341151385928
+recall:      0.100418410042
+F1:          0.0509283819629
+Reaction:    5.125
+TP_ALO:      14.0
+FN_ALO:      99.0
+TP_LS:       10.0
+FN_LS:       108.0
+TP_TC:       9.0
+FN_TC:       118.0
+TP_LTO:      15.0
+FN_LTO:      105.0
+TP_SALO:     0.0
+FN_SALO:     0.0
+
+
+2018-05-23 06:52
+|TP: 163.0|TN: 2440730.0|FP: 6028.0|FN: 2227.0|
+Anomalies:   2390.0
+Guesses:     6191.0
+precision:   0.0263285414311
+recall:      0.0682008368201
+F1:          0.0379909101503
+Reaction:    6.46012269939
+TP_ALO:      51.0
+FN_ALO:      562.0
+TP_LS:       23.0
+FN_LS:       606.0
+TP_TC:       41.0
+FN_TC:       524.0
+TP_LTO:      48.0
+FN_LTO:      535.0
+TP_SALO:     0.0
+FN_SALO:     0.0

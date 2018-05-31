@@ -1,0 +1,108 @@
+|TP: 2854.0|TN: 21876070.0|FP: 88430.0|FN: 24146.0|
+Anomalies:   27000.0
+Guesses:     91284.0
+precision:   0.0312650628807
+recall:      0.105703703704
+F1:          0.0482567380204
+TP_ALO:      0.0
+FN_ALO:      9000.0
+TP_LS:       0.0
+FN_LS:       9000.0
+TP_TC:       2854.0
+FN_TC:       1646.0
+TP_LTO:      0.0
+FN_LTO:      4500.0
+TP_SALO:     0.0
+FN_SALO:     0.0|TP: 3.0|TN: 29140.0|FP: 187.0|FN: 29.0|
+Anomalies:   32.0
+Guesses:     190.0
+precision:   0.0157894736842
+recall:      0.09375
+F1:          0.027027027027
+Reaction:    8.33333333333
+TP_ALO:      1.0
+FN_ALO:      5.0
+TP_LS:       0.0
+FN_LS:       10.0
+TP_TC:       1.0
+FN_TC:       5.0
+TP_LTO:      1.0
+FN_LTO:      9.0
+TP_SALO:     0.0
+FN_SALO:     0.0|TP: 0.0|TN: 14712.0|FP: 98.0|FN: 11.0|
+Anomalies:   11.0
+Guesses:     98.0
+precision:   1e-07
+recall:      1e-08
+F1:          1.81818181818e-08
+Reaction:    1232153463
+TP_ALO:      0.0
+FN_ALO:      3.0
+TP_LS:       0.0
+FN_LS:       5.0
+TP_TC:       0.0
+FN_TC:       1.0
+TP_LTO:      0.0
+FN_LTO:      2.0
+TP_SALO:     0.0
+FN_SALO:     0.0
+
+
+2018-05-18 12:02
+|TP: 158.0|TN: 484880.0|FP: 4773.0|FN: 297.0|
+Anomalies:   455.0
+Guesses:     4931.0
+precision:   0.0320421821132
+recall:      0.347252747253
+F1:          0.0586706275529
+Reaction:    6.50632911392
+TP_ALO:      39.0
+FN_ALO:      71.0
+TP_LS:       22.0
+FN_LS:       88.0
+TP_TC:       31.0
+FN_TC:       76.0
+TP_LTO:      66.0
+FN_LTO:      62.0
+TP_SALO:     0.0
+FN_SALO:     0.0
+
+
+2018-05-19 10:12
+|TP: 158.0|TN: 484880.0|FP: 4773.0|FN: 297.0|
+Anomalies:   455.0
+Guesses:     4931.0
+precision:   0.0320421821132
+recall:      0.347252747253
+F1:          0.0586706275529
+Reaction:    6.50632911392
+TP_ALO:      39.0
+FN_ALO:      71.0
+TP_LS:       22.0
+FN_LS:       88.0
+TP_TC:       31.0
+FN_TC:       76.0
+TP_LTO:      66.0
+FN_LTO:      62.0
+TP_SALO:     0.0
+FN_SALO:     0.0
+
+
+2018-05-26 01:03
+|TP: 768.0|TN: 2421769.0|FP: 22466.0|FN: 1679.0|
+Anomalies:   2447.0
+Guesses:     23234.0
+precision:   0.0330550055952
+recall:      0.313853698406
+F1:          0.0598107550329
+Reaction:    5.64322916667
+TP_ALO:      191.0
+FN_ALO:      383.0
+TP_LS:       120.0
+FN_LS:       480.0
+TP_TC:       201.0
+FN_TC:       456.0
+TP_LTO:      256.0
+FN_LTO:      360.0
+TP_SALO:     0.0
+FN_SALO:     0.0
