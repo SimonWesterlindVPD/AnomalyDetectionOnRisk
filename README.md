@@ -25,6 +25,6 @@ python run.py --plot
 
 The HTM can be run with the same command from within /nupic/examples/opf/clients/returns_and_risk/anomaly/one_returns. However first you must create a separate conda environment and install:
 
-´´´
+```
 conda install --yes --file requirements_htm.txt
-´´´
+```
